@@ -1,4 +1,5 @@
-this line was added as an exersise on conflicts
-and everything else was deleted
-add one more line
-ad more
+bla-bkla-bla,lsgvyglygvlhb?
+to-to-to, i live in dresden
+This line was added in Fong
+
+>>>>>>> f5483f5e15f747eceb81fd2921475247d0739117
